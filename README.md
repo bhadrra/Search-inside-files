@@ -4,10 +4,9 @@
 
 ## Additional features:
 
-    - Case sensitivity
-    - print results as PrettyTable
-        (one table for all files or one table per file)
-    - can also return the result as an OrderedDict 
+* Case sensitivity
+* Print results as PrettyTable (one table for all files or one table per file)
+* Can also return the result as an OrderedDict 
     
 
 ## Usage examples: 
