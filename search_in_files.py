@@ -20,7 +20,7 @@ python search_in_files.py " Watson " -d sherlockHolmesBooks -fn *.txt -s
 python search_in_files.py caseSensitiveWord -C -d ../foldername -fn *.txt
 python search_in_files.py #FIXME -R -fn *.py
 python search_in_files.py #[A-Z]{3,5} -r -C -R -fn *.py
-python search_in_files.py "Hello World"
+python search_in_files.py "Wow so meta"
 """
 
 import os
