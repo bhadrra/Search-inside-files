@@ -1,5 +1,5 @@
 # Search-inside-files
-**Multithreaded, recursive text or regex search in all text-containing files in a directory.**
+**Multithreaded, recursive text or regex search inside all text-containing files in a directory.**
 
 
 ## Additional features:
